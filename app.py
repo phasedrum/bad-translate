@@ -54,7 +54,7 @@ def funny_translate(text: str, ammount: int = 1, language: str = 'auto'):
 
 
 # app start
-print("Welcome to Goofy Translate!")
+print("Welcome to Bad Translate!")
 
 # check translate ammount
 print("How many times do you want to translate?")
