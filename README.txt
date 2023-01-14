@@ -11,7 +11,7 @@ How to use:
       Change the directory on Windows:
       > cd <path to your current directory>
       Example:
-      > cd \Users\<USER>\Bad Translate\
+      > cd \Users\<USER>\Bad-Translate\
 
   3. Now execute the actual command (Windows, Mac, Linux):
       > python -m pip install -r reqirements.txt
