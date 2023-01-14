@@ -1,4 +1,4 @@
-Goofy Translate for Python 3.10+ (Windows 10+, Mac or Linux)
+Bad Translate for Python 3.10+ (Windows 10+, Mac or Linux)
 #########################################
 How to use:
 - You will need Python 3.10 or higher and the required module(s)
