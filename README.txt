@@ -14,7 +14,7 @@ How to use:
       > cd \Users\<USER>\bad-translate-main\
 
   3. Now execute the actual command (Windows, Mac, Linux):
-      > python -m pip install -r reqirements.txt
+      > python -m pip install -r requirements.txt
 
   4. Just wait until the modules have installed and close the console window if it doesn't close automatically
 
