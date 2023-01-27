@@ -18,6 +18,6 @@ How to use:
 
   4. Just wait until the modules have installed and close the console window if it doesn't close automatically
 
-- To start the program open "app.py" (with py.exe) and follow the instructions shown in the console window
+- To start the program, open "app.py" (with py.exe) and follow the instructions shown in the console window
 - You will find all of your translated texts under the "results" folder and your input is stored under input.txt
 - Have fun!
